@@ -1,12 +1,12 @@
 # node-web-server
 
-Running node.js web-server using express.js and handlebars 
-
-## To run web-server locally
+Running node.js web-server using express.js and handlebars
 
 ### Prerequisite
 
 weather application uses mapbox.com, weatherstack endpoints to fetch weather information. Access token information to be updated in the forecast.js and geocode.js
+
+## To run web-server locally
 
 node src/app.js  
 
