@@ -7,7 +7,8 @@ Running node.js web-server using express.js and handlebars
 node src/app.js  
 
 ## Structure
-.
+
+```bash
 ├── package.json
 ├── package-lock.json
 ├── public
@@ -32,3 +33,4 @@ node src/app.js
         ├── about.hbs
         ├── help.hbs
         └── index.hbs
+...
