@@ -4,6 +4,10 @@ Running node.js web-server using express.js and handlebars
 
 ## To run web-server locally
 
+### Prerequisite
+
+weather application uses mapbox.com, weatherstack endpoints to fetch weather information. Access token information to be updated in the forecast.js and geocode.js
+
 node src/app.js  
 
 ## Structure
